@@ -1,1 +1,1 @@
-# The default keymap for bm60rgb
+# UK keys on ANSI layout keymap for bm60rgb
